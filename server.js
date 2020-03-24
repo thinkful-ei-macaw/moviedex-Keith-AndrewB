@@ -4,7 +4,7 @@ const express = require('express');
 const morgan = require('morgan');
 const cors = require('cors');
 const helmet = require('helmet');
-const store = require('./movie-store.js');
+const store = require('./movie-store.json');
 
 
 const app = express();
