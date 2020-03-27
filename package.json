@@ -13,6 +13,9 @@
     "url": "git+https://github.com/thinkful-ei-macaw/moviedex-Keith-AndrewB.git"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.16.1"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
